@@ -13,6 +13,9 @@ La terminal en Linux permite interactuar con el sistema operativo mediante coman
   - `cd /` → Va a la raíz del sistema.
   - `cd ~` → Va al directorio personal del usuario. Si tienes configurada la variable de entorno `$HOME`, se abrirá automáticamente utilizando únicamente `cd`.
   - `cd -` → Vuelve al directorio anterior.
+- (UPDATE) `whoami`  → Lista el usuario que ejecuta el comando
+- (UPDATE) `who` → Lista los usuarios que actualmente tengan una sesión abierta en el servidor
+- 
 
 ## 3. Manipulación de Archivos
 - `touch archivo.txt` → Crea un archivo vacío.
